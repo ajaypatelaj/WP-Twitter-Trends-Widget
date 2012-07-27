@@ -2,15 +2,16 @@ WP-Twitter-Trends-Widget
 ========================
 
 
-Contributors: Ajay Patel 
-Tags: Twitter Trends, Twitter, Trends, WP Twitter Trends
-Requires at least: 2.8
-Tested up to: 2.8
-Stable tag: 4.3
+Contributor: Ajay Patel <br/>
+Tags: Twitter Trends, Twitter, Trends, WP Twitter Trends<br/>
+Requires at least: 2.8<br/>
+Tested up to: 2.8<br/>
+Stable tag: 4.3<br/>
 
 Simple Widget plugin that displays Current Twitter Trends by Region. Just activate & setup this widget.
 
-== Description ==
+Description
+===========
 
 This plugin will help you to display Current Twitter Trends by Region.
 
@@ -24,7 +25,7 @@ As we increasingly depend on more and more social services, there rises the need
 
 
 Installation
-==================
+============
 
 Installation Steps
 
