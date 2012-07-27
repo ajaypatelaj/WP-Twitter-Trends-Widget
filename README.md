@@ -1,7 +1,7 @@
 WP-Twitter-Trends-Widget
 ========================
 
-=== WP Twitter Trends ===
+
 Contributors: Ajay Patel 
 Tags: Twitter Trends, Twitter, Trends, WP Twitter Trends
 Requires at least: 2.8
@@ -23,8 +23,8 @@ As we increasingly depend on more and more social services, there rises the need
 *May also help you to increase your Twitter Followers.
 
 
-== Installation ==
-
+Installation
+==================
 
 Installation Steps
 
@@ -36,5 +36,6 @@ Installation Steps
 6. Leave a comment regarding bugs, feature request, Tea recipes 
 
 Some Formatting Tips
+========================
 
 *If you know CSS then you can change this widget colour combination according to your WordPress Blog/Site.
