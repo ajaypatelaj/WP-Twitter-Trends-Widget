@@ -33,7 +33,7 @@ Installation Steps
 3. Add the Widget to the desired sidebar in the WordPress Widgets menu.
 4. Enter your widget title, select region, select auto update time and number of trends to display.
 5. Rate the plugin and verify that it works at wordpress.org.
-6. Leave a comment regarding bugs, feature request, Tea recipes at http://webdesignergeeks.com/cms/wordpress/twitterrss-stats-widget-how-to-create-wordpress-widget-plug-in-from-scratch/
+6. Leave a comment regarding bugs, feature request, Tea recipes 
 
 Some Formatting Tips
 
